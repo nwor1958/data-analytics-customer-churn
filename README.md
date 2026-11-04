@@ -53,5 +53,5 @@ This project performs an Exploratory Data Analysis (EDA) on a customer dataset t
 
 1. **Clone o repositório / Clone the repo:**
    ```bash
-   git clone [https://github.com/nwor1958/telecom-churn-data-analysis.git](https://github.com/nwor1958/telecom-churn-data-analysis.git)
-   cd telecom-churn-data-analysis
+   git clone https://github.com/nwor1958/data-analytics-customer-churn.git
+   cd data-analytics-customer-churn
